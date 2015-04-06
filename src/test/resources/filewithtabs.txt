@@ -1,0 +1,10 @@
+This is a file with tabs
+
+This line is indented zero tabs
+	This line is indented one tab
+		This line is indented two tabs
+			This line is indented three tabs
+			This line is indented three tabs
+		This line is indented two tabs
+	This line is indented one tab
+This line is indented zero tabs

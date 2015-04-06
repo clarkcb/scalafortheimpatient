@@ -1,0 +1,15 @@
+This is a text file that I will read and count the word frequencies from.
+
+Process finished with exit code 0
+
+Hello, how are you today?
+I am fine, thank you. And how are you?
+
+That was boring, let's talk about something else. How's the weather today?
+Well, it's Seattle, so you can probably guess.
+Oh, clear skies, sunny and warm?
+Very funny.
+
+This has been a text file that I have read and counted the word frequencies from.
+We now return you to the previously scheduled program, already in progress.
+

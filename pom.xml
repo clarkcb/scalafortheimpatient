@@ -6,7 +6,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>scalafortheimpatient</groupId>
-  <artifactId>exercises</artifactId>
+  <artifactId>scalafortheimpatient-exercises</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>Scala for the Impatient Exercises</name>

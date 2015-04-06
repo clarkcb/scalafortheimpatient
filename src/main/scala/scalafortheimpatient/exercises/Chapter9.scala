@@ -1,4 +1,4 @@
-package sfti.exercises
+package scalafortheimpatient.exercises
 
 import java.io.File
 import scala.io.Source

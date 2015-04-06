@@ -1,8 +1,7 @@
-package sfti.exercises
+package scalafortheimpatient.exercises
 
 import collection._
-import scala.math
-import sfti.exercises.Util._
+import Util._
 
 /*
   Exercises to do (8): 1, 2, 3, 4, 5, 6, 7, 8

@@ -1,4 +1,4 @@
-package sfti.exercises
+package scalafortheimpatient.exercises
 
 import scala.collection.mutable
 

@@ -1,4 +1,4 @@
-package sfti.exercises
+package scalafortheimpatient.exercises
 
 import collection._
 import java.util.Scanner

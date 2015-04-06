@@ -1,4 +1,4 @@
-package sfti.exercises
+package scalafortheimpatient.exercises
 
 object Chapter2 {
   /* 1) The signum of a number is 1 if the number is positive, -1 if the number

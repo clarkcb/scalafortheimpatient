@@ -1,10 +1,10 @@
-package sfti.exercises
+package scalafortheimpatient.exercises
 
 import org.scalatest.junit.JUnitRunner
 import org.junit.runner.RunWith
 import org.scalatest.FunSuite
-import sfti.exercises.Chapter12._
-import sfti.exercises.Util._
+import scalafortheimpatient.exercises.Chapter12._
+import scalafortheimpatient.exercises.Util._
 
 @RunWith(classOf[JUnitRunner])
 class Chapter12Test extends FunSuite {
